@@ -1,0 +1,24 @@
+JSP Servlet JDBC MySQL Create Read Update Delete (CRUD) Example
+
+This application using the following technologies:
+
+Java Servlets and Java Server Pages (JSP)
+JSP Standard Tag Library (JSTL)
+Java Database Connectivity (JDBC)
+MySQL database
+Apache Tomcat Server
+
+We use Eclipse IDE with Maven to develop the project.
+
+1. Creating MySQL Database
+2. Creating Eclipse Project with Maven
+3. Writing Model Class
+4. Coding DAO class
+5. Writing Book Listing JSP Page
+6. Writing Book Form JSP Page
+7. Coding Controller Servlet Class
+8. Configuring Web.xml
+9. Writing Error JSP page
+10. Deploying and Testing the Application
+
+http://localhost:8080/Bookstore
